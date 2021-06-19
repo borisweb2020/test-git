@@ -1,0 +1,60 @@
+body{
+	min-width: 320px;
+	overflow-x: hidden;
+	margin: 0;
+
+	font-size: 20px;
+	font-family: "Arial", sans-serif;
+	font-weight: normal;
+	line-height: 1.5;
+}
+
+.container{
+	width: 100%;
+	max-width: 1000px;
+	margin: 0 auto;
+	color: #ff0036;
+}
+
+button{
+	font: inherit;
+	padding: 0;
+	border: none;
+	cursor: pointer;
+	background: none;
+	color: inherit;
+}
+
+button:focus{
+	outline: none;
+}
+
+
+a{
+	color: inherit;
+	text-decoration: none;
+	font: inherit;
+}
+
+a:hover{
+	color: inherit;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+a:focus{
+	outline: none;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+	margin: 0; }
+
+
+
+ul {
+margin: 0;
+padding: 0;
+color: #00f3f4;
+
+}
+
