@@ -1,3 +1,3 @@
-# Cit and CitHub course
+# Git and GitHub
 
 Crash course
