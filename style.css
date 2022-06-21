@@ -58,3 +58,9 @@ color: #00f3f4;
 
 }
 
+.button{
+	border: 1px solid hsl(190, 70%, 45%);
+	border-radius: 15px;
+	padding: 10px 35px;
+}
+
